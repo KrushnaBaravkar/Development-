@@ -1,0 +1,1 @@
+// total bills of that perticular paitent in that perticular hospital

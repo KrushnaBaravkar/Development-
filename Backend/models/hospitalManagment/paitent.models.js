@@ -1,0 +1,1 @@
+// all the info of that perticular patient 

@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Youtube clone backend ",
+  "keywords": [
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Krushna Baravkar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^9.11.1"
+  }
+}
